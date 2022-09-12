@@ -1,0 +1,191 @@
+{
+    "bars": [
+        {
+            "name":"Palm City Wines", 
+            "url":"https://www.palmcitysf.com/page-4",
+            "event":"wine club",
+            "type":"wine club",
+            "days":"",
+            "frequency":"monthly",
+            "cost":"$79",
+            "details":["2-3 bottles hand picked each month, varying in style (red, white, rosè, sparkling).",
+                "Pick up your wines the 2nd Thursday of every month"]
+        },
+        {
+            "name":"Arcana", 
+            "url":"https://www.arcanasf.com/wine-bites",
+            "event":"wine tasting",
+            "type":"happy hour",
+            "days":"Wed-Fri 4 pm - 6 pm / Sat-Sun 12 pm - 2 pm",
+            "frequency":"weekly",
+            "cost":"",
+            "details":["30% off wines to go"]
+        },
+        {
+            "name":"Buddy", 
+            "url":"https://www.buddythebar.com/visit",
+            "event":"wine wednesdays",
+            "type":"happy hour",
+            "days":"wednesday 4-10pm",
+            "frequency":"weekly",
+            "cost":"",
+            "details":["beverages only"]
+        },
+        {
+            "name":"eristavi winery", 
+            "url":"https://eristaviwinery.com/wineclub-index",
+            "event":"wine club",
+            "type":"wine club",
+            "days":"",
+            "frequency":"quarterly",
+            "cost":"$69 / $89 / $189",
+            "details":["3 tiers offering varies perks for each tier"]
+        },
+        {
+            "name":"Yield dog patch", 
+            "url":"https://www.yielddogpatch.com/collections/quarantine-wine-club",
+            "event":"wine club",
+            "type":"wine club",
+            "days":"",
+            "frequency":"quarterly",
+            "cost":"$420 / $210 / $115",
+            "details":["pricing is based on is choose the full case, half case, or 3 pack"]
+        },
+        {
+            "name":"Yield dog patch", 
+            "url":"https://www.yielddogpatch.com/pages/thursday-night-trivia",
+            "event":"trivia",
+            "type":"trivia",
+            "days":"thursdays at 7pm",
+            "frequency":"weekly",
+            "cost":"free",
+            "details":["ARE YOU SMARTER THAN A 6TH GRADER? trivia night. 1-6 players per team"]
+        },
+        {
+            "name":"cocotte", 
+            "url":"https://www.cocottesf.com/",
+            "event":"live music",
+            "type":"live music",
+            "days":"daily from 6pm to 9pm",
+            "frequency":"daily",
+            "cost":"",
+            "details": ["They have a heated & covered Patio. Indoor dining open"]
+        },
+        {
+            "name":"winery collective", 
+            "url":"https://www.winerycollective.com/",
+            "event":"wine tasting",
+            "type":"wine tasting",
+            "days":"daily from 6pm to 9pm",
+            "frequency":"weekly",
+            "cost":"",
+            "details":["ARE YOU SMARTER THAN A 6TH GRADER? trivia night. 1-6 players per team"]
+        },
+        {
+            "name":"winery collective", 
+            "url":"https://www.winerycollective.com/the-best-wine-club",
+            "event":"wine club",
+            "type":"wine club",
+            "days":"",
+            "frequency":"quarterly",
+            "cost":"",
+            "details":["Join the case (15% off all bottles) or half case club. Free shipping for both clubs. Customized your case from last call, suggested and 90+ point wines."]
+        },
+        {
+            "name":"amelie", 
+            "url":"https://www.sfamelie.com/wine-club",
+            "event":"happy hour",
+            "type":"happy hour",
+            "days":"daily 4-6pm",
+            "frequency":"daily ",
+            "cost":"",
+            "details":["Customized Flight Of wine $12 Cheese and Charcuterie Plate $26"]
+        },
+        {
+            "name":"amelie", 
+            "url":"https://www.sfamelie.com/wine-club",
+            "event":"wine club",
+            "type":"wine club",
+            "days":"",
+            "frequency":"monthly",
+            "cost":"",
+            "details":["La Cave and Amélie partner together to select 4 bottles for you at wholesale pricing.",
+                 "Invited to the monthly wine club pickup party at the wine bar"]
+        },
+        {
+            "name":"amelie", 
+            "url":"https://www.sfamelie.com/live-music",
+            "event":"live music",
+            "type":"live music",
+            "days":"Saturday 6 to 9 pm",
+            "frequency":"weekly ",
+            "cost":"",
+            "details":["Friday: Electro Chic. Live DJ Bethany Rose - Franky Boissy - Vlad - Seba",
+                 "Saturday: 6.30pm-9.30pm. Jazz Music and Bands/Local Musicians",  "Sunday: 5-7pm. Locura Latin Jazz live music"]
+        },
+        {
+            "name":"amelie", 
+            "url":"https://www.sfamelie.com/wine-club",
+            "event":"food special",
+            "type":"food special",
+            "days":"Friday-Saturday-Sunday 2 to 4pm",
+            "frequency":"weekly",
+            "cost":"",
+            "details":["Oyster special"]
+        },
+        {
+            "name":"west coast wine and cheese", 
+            "url":"https://www.westcoastsf.com/wine-club",
+            "event":"wine club",
+            "type":"wine club",
+            "days":"",
+            "frequency":"quarterly",
+            "cost":"$100 / $200",
+            "details":["Pricing based on Social or Cellar club perks",
+                "Quarterly Releases: March, June, September & December",
+                "3 or 4 bottles a quarter, discount on bar tabs and restaurant price on all retail wine purchases, complimentary Pick-Up Party Tasting Flight each Quarter"]
+        },
+        {
+            "name":"west coast wine and cheese", 
+            "url":"https://www.westcoastsf.com/events-2",
+            "event":"wine club pick up party",
+            "type":"",
+            "days":"sept 13th 4:00 PM - 11:00 PM",
+            "frequency":"quarterly",
+            "cost":"",
+            "details":["Everyone is welcome. Complimentary tasting flight for Mmmbers"]
+        },
+        {
+            "name":"william cross wine merchants & wine bar", 
+            "url":"http://wmcross.com/tastings/",
+            "event":"wine tasting",
+            "type":"wine tasting",
+            "days":"wednesday 5-8pm",
+            "frequency":"weekly",
+            "cost":"",
+            "details":[""]
+        },
+        {
+            "name":"high treason", 
+            "url":"https://www.hightreasonsf.com/wine-club",
+            "event":"wine club",
+            "type":"wine club",
+            "days":"",
+            "frequency":"monthly",
+            "cost":"$79",
+            "details":["1-3 bottles, pick up after the 2nd Tuesday of each month."]
+        },
+        {
+            "name":"www.tofinowines.com", 
+            "url":"https://tomorrowswine.com/collections/wine-club",
+            "event":"wine club",
+            "type":"wine club",
+            "days":"",
+            "frequency":"monthly",
+            "cost":"$49 or $139",
+            "details":["wine club hosted by tofino wines www.tofinowines.com", "pricing depends"]
+        }
+
+    ]
+}
+

@@ -1,0 +1,19 @@
+{
+  "name": "corkedup-cities",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cities.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "cheerio": "^1.0.0-rc.12",
+    "csv-parse": "^5.3.0",
+    "node-fetch": "^3.2.10",
+    "yelp-api": "^1.0.3"
+  }
+}
